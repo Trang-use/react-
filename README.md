@@ -1,8 +1,5 @@
-# React + Vite
+# Quản lí chi tiêu cá nhân 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Mô tả chức năng 
+Đây là trang web quản lí chi tiêu người dùng cá nhân để xem được 1 ngày, 1 tháng hoặc 1 năm mình sẽ biết được 1 năm tổng quan của mình là bao nhiêu
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
